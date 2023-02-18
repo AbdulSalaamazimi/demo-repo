@@ -4,4 +4,4 @@
 
   # subheader
 
-  practice fot learning
+  practice for learning
